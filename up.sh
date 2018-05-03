@@ -48,7 +48,6 @@ fi
 
 func_help(){
    echo "up version ${devenv_version}"
-   echo "Property of Upsight, Inc. © 2017 501 Folsom St. San Francisco, CA 94105"
    echo ""
    echo "Contributions are welcomed at: https://stash.eng.upsight.com/projects/DEVOPS/repos/devenv/browse"
    echo ""
