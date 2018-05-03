@@ -49,8 +49,6 @@ fi
 func_help(){
    echo "up version ${devenv_version}"
    echo ""
-   echo "Contributions are welcomed at: https://stash.eng.upsight.com/projects/DEVOPS/repos/devenv/browse"
-   echo ""
    echo "Create or interact with a single VM or cluster of VMs."
    echo " "
    echo "Usage: "
